@@ -30,7 +30,7 @@ echo ""
 echo ""
 echo ""
 
-pkg install python3
+pkg install python3 -y
 pkg update -y                    
 pkg install python -y           
 pkg install python2 -y
