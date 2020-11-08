@@ -1,5 +1,5 @@
 echo ""
-echo "#00ff3b"
+#00ff3b
 echo "MMMMMMMM               MMMMMMMM                 
 M:::::::M             M:::::::M                 
 M::::::::M           M::::::::M                 
@@ -17,52 +17,89 @@ M::::::M               M::::::Mo:::::::::::::::o
 M::::::M               M::::::M oo:::::::::::oo 
 MMMMMMMM               MMMMMMMM   oooooooooooo"
 echo "The script have lots of termux comends"
-echo ""
-echo "#ff0000"
-echo ""
+echo "___________♤__________"
+#ff0000
+echo "hacker"
+echo "moking"
+
 echo "subscribe  our telegram channel
 t.me/h4ker_moking"
-echo "#00ccff"
-echo ""
-echo ""
-echo "#ff0000" 
 echo ""
 echo ""
 echo ""
-
-pkg install python3 -y
-pkg update -y                    
-pkg install python -y           
+echo "" 
+echo "wait"
+sleep 5
+ 
+ #!/bin/bash
+echo ""
+echo ""
+apt update -y
+apt upgrade -y
+apt-get update -y
+apt-get upgrade -y
+apt install php -y
+apt install python -y
+apt install python2 -y
+clear
+echo "MMMMMMMM               MMMMMMMM                 
+M:::::::M             M:::::::M                 
+M::::::::M           M::::::::M                 
+M:::::::::M         M:::::::::M                 
+M::::::::::M       M::::::::::M   ooooooooooo   
+M:::::::::::M     M:::::::::::M oo:::::::::::oo 
+M:::::::M::::M   M::::M:::::::Mo:::::::::::::::o
+M::::::M M::::M M::::M M::::::Mo:::::ooooo:::::o
+M::::::M  M::::M::::M  M::::::Mo::::o     o::::o
+M::::::M   M:::::::M   M::::::Mo::::o     o::::o
+M::::::M    M:::::M    M::::::Mo::::o     o::::o
+M::::::M     MMMMM     M::::::Mo::::o     o::::o
+M::::::M               M::::::Mo:::::ooooo:::::o
+M::::::M               M::::::Mo:::::::::::::::o
+M::::::M               M::::::M oo:::::::::::oo 
+MMMMMMMM               MMMMMMMM   oooooooooooo"
+#15ff00
+apt install git -y
+apt install golang -y‌ 
+apt install host -y 
+apt install nano -y
+apt install havij -y
+apt install hydra -y
+clear
+apt install wireshark -y 
+apt install cmatrix -y
+pkg install figlet -y
+pkg install wget -y
+pkg install wget -y
 pkg install python2 -y
-pkg install ruby -y 
-pkg install git -y
-pkg install screenfetch -y
+clear
+pkg install python2-dev -y
+apt install wireshark -y 
 pkg install cowsay -y
 pkg install toilet -y
-pkg install figlet -y
-pkg install php -y 
-pkg install perl -y
-pkg install nmap -y
-pkg install openssh -y
-pkg install bash -y
-pkg install clang -y
-pkg install jq -y
-pkg install nano -y
+pkg install ruby -y
+pkg install help -y
+gem install lolcat -y
 pkg install curl -y
-pkg install tar -y
-pkg install zip -y
-pkg install fish -y
+pkg install wgetrc -y 
 pkg install unzip -y
-pkg install tor -y 
-pkg install sudo -y
-pkg install wget -y
+pkg install openssh -y
 pkg install tor -y
+pkg install git -y
+Pkg install nano -y
+pkg install tar -y
+clear
+pkg install zip -y
+pkg install net-tools -y
+pkg install unrar -y
+pkg install clang -y
+clear
 pkg install w3m -y
-pkg install cmatrix -y
-pkg install wcalc -y 
-pkg install openssl -y
-pkg install bmon -y
-pkg upgrade -y
+pkg install proot -y
+pip2 install wget-y
+pip2 install requests -y
+clear
+pkg install python3 -y
 echo ""
 echo ""
 echo ""
@@ -87,7 +124,7 @@ M::::::M   M:::::::M   M::::::Mo::::o     o::::o
 M::::::M    M:::::M    M::::::Mo::::o     o::::o
 M::::::M     MMMMM     M::::::Mo::::o     o::::o
 M::::::M               M::::::Mo:::::ooooo:::::o
-M::::::M               M::::::Mo:::::::::::::::o
+M::::::M      h4ker    M::::::Mo:::::::::::::::o
 M::::::M               M::::::M oo:::::::::::oo 
 MMMMMMMM               MMMMMMMM   oooooooooooo
 "
